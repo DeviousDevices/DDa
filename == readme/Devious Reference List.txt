@@ -1,0 +1,58 @@
+A list of the items included in Devious Devices: Assets, as well as their slot usage.
+
+To obtain these (non-scripted) items type the following into the in-game console:
+
+player.getitem A B
+
+Replace A with the item's unique ID (which can be obtained by typing 'help' followed by the desired item's name) and B with the desired number of items spawned.
+
+-----
+
+Armbinder [33, 59]
+
+Blindfold [55]
+
+Chastity Bra (Padded) [56]
+
+Chastity Belt (Iron) [49]
+Chastity Belt (Padded) [49]
+Chastity Belt (Padded) (Open) [49]
+
+Collar (Steel) [45]
+Collar (Leather) [45]
+
+Cuffs (Leather) (Arms) [59]
+Cuffs (Leather) (Collar) [45]
+Cuffs (Leather) (Legs) [53]
+
+Cuffs (Padded) (Arms) [59]
+Cuffs (Padded) (Collar) [45]
+Cuffs (Padded) (Legs) [53]
+
+Gag (Harness) (Ball) [44, 50]
+Gag (Harness) (Ring) [44, 50]
+Gag (Harness) (Panel) [44, 50]
+Gag (Harness) (Panel+) [44, 50]
+
+Gag (Simple) (Ball) [44, 50]
+Gag (Simple) (Ring) [44, 50]
+Gag (Simple) (Panel) [44, 50]
+Gag (Simple) (Panel+) [44, 50]
+
+Harness [45, 49]
+
+Nipple Piercings (Soulgem) [56]
+
+Plug (Anal) (Inflatable) [48]
+Plug (Anal) (Iron) [48]
+Plug (Anal) (Primitive) [48]
+Plug (Anal) (Soulgem) [48]
+
+Plug (Vaginal) (Inflatable) [54]
+Plug (Vaginal) (Iron) [54]
+Plug (Vaginal) (Primitive) [54]
+Plug (Vaginal) (Soulgem) [54]
+
+Posture Collar (Leather) [45]
+
+Vaginal Piercing (Soulgem) [48]
