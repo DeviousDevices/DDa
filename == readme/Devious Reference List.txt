@@ -29,15 +29,15 @@ Cuffs (Padded) (Arms) [59]
 Cuffs (Padded) (Collar) [45]
 Cuffs (Padded) (Legs) [53]
 
-Gag (Harness) (Ball) [44, 50]
-Gag (Harness) (Ring) [44, 50]
-Gag (Harness) (Panel) [44, 50]
-Gag (Harness) (Panel+) [44, 50]
+Gag (Harness) (Ball) [44]
+Gag (Harness) (Ring) [44]
+Gag (Harness) (Panel) [44]
+Gag (Harness) (Panel+) [44]
 
-Gag (Simple) (Ball) [44, 50]
-Gag (Simple) (Ring) [44, 50]
-Gag (Simple) (Panel) [44, 50]
-Gag (Simple) (Panel+) [44, 50]
+Gag (Simple) (Ball) [44]
+Gag (Simple) (Ring) [44]
+Gag (Simple) (Panel) [44]
+Gag (Simple) (Panel+) [44]
 
 Harness [45, 49]
 

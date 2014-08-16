@@ -123,7 +123,7 @@ Chris
 for his work on the Zaz Animation pack
 
 Coopervane
-for his input & contributions regarding nif shader parameters
+for his assistance regarding nif shader parameters & mod maintenance
 
 All DD modders and beta testers
 for their time and efforts
@@ -135,6 +135,8 @@ VERSION HISTORY
 2.8.2
 - Added: nipple piercings (soulgem)
 - Added: vaginal piercings (soulgem)
+- Tweak: consolidated gag meshes
+- Fixed: FOMOD installer file priorities
 
 2.8.1
 - Other: Removed optional 1st person fix

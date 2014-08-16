@@ -78,7 +78,7 @@
               </description>
               <image path="fomod\images\02_bbp.png"/>
               <files>
-                <folder source="02 BBP (CBBE)" destination=""/>
+                <folder source="02 BBP (CBBE)" destination="" priority="3"/>
               </files>
               <conditionFlags>
                 <flag name="BBP">On</flag>
@@ -91,7 +91,7 @@
               </description>
               <image path="fomod\images\02_tbbp.png"/>
               <files>
-                <folder source="02 TBBP (CBBE)" destination=""/>
+                <folder source="02 TBBP (CBBE)" destination="" priority="3"/>
               </files>
               <conditionFlags>
                 <flag name="TBBP">On</flag>
@@ -161,7 +161,7 @@
               </description>
               <image path="fomod\images\02_bbp.png"/>
               <files>
-                <folder source="02 BBP (UNPB)" destination=""/>
+                <folder source="02 BBP (UNPB)" destination="" priority="3"/>
               </files>
               <conditionFlags>
                 <flag name="BBP">On</flag>
@@ -174,7 +174,7 @@
               </description>
               <image path="fomod\images\02_tbbp.png"/>
               <files>
-                <folder source="02 TBBP (UNPB)" destination=""/>
+                <folder source="02 TBBP (UNPB)" destination="" priority="3"/>
               </files>
               <conditionFlags>
                 <flag name="TBBP">On</flag>
@@ -187,7 +187,7 @@
               </description>
               <image path="fomod\images\02_tbbp25g.png"/>
               <files>
-                <folder source="02 TBBP 2-5g (UNPB)" destination=""/>
+                <folder source="02 TBBP 2-5g (UNPB)" destination="" priority="3"/>
               </files>
               <conditionFlags>
                 <flag name="TBBP25G">On</flag>
