@@ -1,10 +1,4 @@
-A list of the items included in Devious Devices: Assets, as well as their slot usage.
-
-To obtain these (non-scripted) items type the following into the in-game console:
-
-player.getitem A B
-
-Replace A with the item's unique ID (which can be obtained by typing 'help' followed by the desired item's name) and B with the desired number of items spawned.
+ItemName [slot #]
 
 -----
 
@@ -56,3 +50,5 @@ Plug (Vaginal) (Soulgem) [54]
 Posture Collar (Leather) [45]
 
 Vaginal Piercing (Soulgem) [48]
+
+Yoke (Iron) [59]

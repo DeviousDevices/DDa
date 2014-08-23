@@ -1,4 +1,4 @@
-; -----Devious Devices: Assets by Zadil (v2.8.2)-----
+; -----Devious Devices: Assets by Zadil (v2.8.3)-----
 ; http://www.loverslab.com/files/file/269-devious-devices-assets/
 
 RequireVersions "", "", "", "303"
