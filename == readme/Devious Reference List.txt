@@ -1,4 +1,4 @@
-ItemName [slot #]
+ItemName [slot#]
 
 -----
 
@@ -12,11 +12,11 @@ Chastity Belt (Iron) [49]
 Chastity Belt (Padded) [49]
 Chastity Belt (Padded) (Open) [49]
 
-Collar (Steel) [45]
 Collar (Leather) [45]
+Collar (Rigid) [45]
+Collar (Steel) [45]
 
 Cuffs (Leather) (Arms) [59]
-Cuffs (Leather) (Collar) [45]
 Cuffs (Leather) (Legs) [53]
 
 Cuffs (Padded) (Arms) [59]
@@ -32,6 +32,10 @@ Gag (Simple) (Ball) [44]
 Gag (Simple) (Ring) [44]
 Gag (Simple) (Panel) [44]
 Gag (Simple) (Panel+) [44]
+
+Restrictive Collar [45]
+Restrictive Corset [49]
+Restrictive Gloves [33]
 
 Harness [45, 49]
 

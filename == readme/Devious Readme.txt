@@ -8,10 +8,10 @@ by Zadil
 
 This is a collection of BDSM-themed gear and devices for the CBBE 3.2.3 (Curvy) & UNPB 2.5.2 female body, with additional tweaks for the UNP 1.2 (Skinny) body included.
 
-Since this is primarily a collection of resource files it is strongly recommended to use this package in conjunction with other DD mods like 'Devious Devices: Integration' by Min.
-
-A comprehensive list of mods that use these assets can be found here:
+A comprehensive list of mods that use these devices can be found here:
 http://www.loverslab.com/topic/30855-devious-skyrim/#entry770752
+
+It is recommended to use DD:Assets with other DD mods like DD:Integration that make the content available ingame.
 
 
 
@@ -35,8 +35,8 @@ Some items in this package have SexLab keywords attached to them to ensure compa
 
 -Known Issues-
 
-Some devices (headgear in particular) may not always fit perfectly on characters with exaggerated visual features
-Clipping can occur when assuming extreme poses or performing certain actions.
+Headgear (gags, blingfold,...) may not always fit perfectly depending on the character's race and facial features.
+Minor clipping and/or deformation issues may occur when the character assumes extreme poses or performs certain movements.
 
 
 
@@ -71,7 +71,7 @@ Min
 for his outstanding and ongoing work on the Integration mod
 
 Koffii
-for providing some high quality meshes & textures
+for contributing additional high quality meshes & textures
 
 Zaz Chris & Xaz
 for providing complementary animations to some devices
@@ -88,6 +88,10 @@ for their time and efforts
 
 2.8.3
 - Added: Yoke (by Koffii)
+- Added: Restrictive Corset by Koffii
+- Added: Restrictive Corset (Open) by Koffii
+- Added: Restrictive Gloves by Koffii
+- Added: Restrictive Collar by Koffii
 
 2.8.2
 - Added: nipple piercings (soulgem)
