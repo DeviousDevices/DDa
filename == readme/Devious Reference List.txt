@@ -34,7 +34,9 @@ Gag (Simple) (Panel) [44]
 Gag (Simple) (Panel+) [44]
 
 Restrictive Collar [45]
-Restrictive Corset [49]
+Restrictive Corset [46, 49]
+Restrictive Chastity Corset [46, 49]
+Restrictive Chastity Corset Open [46, 49]
 Restrictive Gloves [33]
 
 Harness [45, 49]

@@ -88,10 +88,7 @@ for their time and efforts
 
 2.8.3
 - Added: Yoke (by Koffii)
-- Added: Restrictive Corset by Koffii
-- Added: Restrictive Corset (Open) by Koffii
-- Added: Restrictive Gloves by Koffii
-- Added: Restrictive Collar by Koffii
+- Added: Restrictive Corset Outfit by Koffii
 
 2.8.2
 - Added: nipple piercings (soulgem)
