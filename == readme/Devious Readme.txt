@@ -89,6 +89,9 @@ for their time and efforts
 2.8.3
 - Added: Yoke (by Koffii)
 - Added: Restrictive Corset Outfit by Koffii
+- Fixed: Belt Padded (Open) wold mesh path
+- Fixed: missing Leather Posture Collar scriptInstance armor record
+- Added: hood, gloves, suit keywords
 
 2.8.2
 - Added: nipple piercings (soulgem)
