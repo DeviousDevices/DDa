@@ -87,8 +87,6 @@ for their time and efforts
 -Release History-
 
 2.8.3
-- Added: Yoke (by Koffii)
-- Added: Restrictive Corset Outfit by Koffii
 - Fixed: Belt Padded (Open) wold mesh path
 - Fixed: missing Leather Posture Collar scriptInstance armor record
 - Added: hood, gloves, suit keywords
