@@ -1,5 +1,5 @@
 ﻿<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
-  <moduleName>Devious Devices: Assets 2.8.3</moduleName>
+  <moduleName>Devious Devices: Assets 2.9.0</moduleName>
   <moduleImage path="fomod\images\header.png"/>
   <installSteps order="Explicit">
 
@@ -23,7 +23,7 @@
             </plugin>
             <plugin name="UNP Skinny">
               <description>
-                Install UNPB version tweaked for UNP 1.2 Skinny (based on UNP 1.2 Skinny)
+                Install UNP version tweaked for UNP 1.2 Skinny (based on UNP 1.2 Skinny)
               </description>
               <image path="fomod\images\01_unp_s.png"/>
               <files>
@@ -36,17 +36,17 @@
               </conditionFlags>
               <typeDescriptor><type name="Optional"/></typeDescriptor>
             </plugin>
-            <plugin name="UNPB">
+            <plugin name="UNP">
               <description>
-                Install UNPB version (based on UNPB 2.5.2)
+                Install UNP version (based on UNP 1.2)
               </description>
-              <image path="fomod\images\01_unpb.png"/>
+              <image path="fomod\images\01_unp.png"/>
               <files>
                 <folder source="00 Core" destination="" priority="1"/>
-                <folder source="01 UNPB" destination="" priority="2"/>
+                <folder source="01 UNP" destination="" priority="2"/>
               </files>
               <conditionFlags>
-                <flag name="UNPB">On</flag>
+                <flag name="UNP">On</flag>
               </conditionFlags>
               <typeDescriptor><type name="Optional"/></typeDescriptor>
             </plugin>
@@ -140,32 +140,19 @@
 
     <installStep name="Jiggle Support">
       <visible>
-        <flagDependency flag="UNPB" value="On" />        
+        <flagDependency flag="UNP" value="On" />        
       </visible>
       <optionalFileGroups>
         <group name="Select nipple piercing placement" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Default">
               <description>
-                Piercings will fit the default UNPB 2.5.2 body.
+                Piercings will fit the default UNP 1.2 body.
               </description>
               <image path="fomod\images\02_default.png"/>
               <files>
                 <folder source="no folder" destination=""/>
               </files>
-              <typeDescriptor><type name="Optional"/></typeDescriptor>
-            </plugin>
-            <plugin name="BBP">
-              <description>
-                Piercings will fit the UNPB 2.5.2 BBP body (requires a bbp-compatible skeleton).
-              </description>
-              <image path="fomod\images\02_bbp.png"/>
-              <files>
-                <folder source="02 BBP (UNPB)" destination="" priority="3"/>
-              </files>
-              <conditionFlags>
-                <flag name="BBP">On</flag>
-              </conditionFlags>
               <typeDescriptor><type name="Optional"/></typeDescriptor>
             </plugin>
             <plugin name="TBBP">
@@ -174,23 +161,10 @@
               </description>
               <image path="fomod\images\02_tbbp.png"/>
               <files>
-                <folder source="02 TBBP (UNPB)" destination="" priority="3"/>
+                <folder source="02 TBBP (UNP)" destination="" priority="3"/>
               </files>
               <conditionFlags>
                 <flag name="TBBP">On</flag>
-              </conditionFlags>
-              <typeDescriptor><type name="Optional"/></typeDescriptor>
-            </plugin>
-            <plugin name="TBBP 2.5g">
-              <description>
-                Piercings will fit the UNPB 2.5g TBBP body (requires a tbbp-compatible skeleton).
-              </description>
-              <image path="fomod\images\02_tbbp25g.png"/>
-              <files>
-                <folder source="02 TBBP 2-5g (UNPB)" destination="" priority="3"/>
-              </files>
-              <conditionFlags>
-                <flag name="TBBP25G">On</flag>
               </conditionFlags>
               <typeDescriptor><type name="Optional"/></typeDescriptor>
             </plugin>
