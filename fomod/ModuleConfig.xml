@@ -28,7 +28,7 @@
               <image path="fomod\images\01_unp_s.png"/>
               <files>
                 <folder source="00 Core" destination="" priority="1"/>
-                <folder source="01 UNPB" destination="" priority="2"/>
+                <folder source="01 UNP" destination="" priority="2"/>
                 <folder source="01_UNP Skinny" destination="" priority="3"/>
               </files>
               <conditionFlags>
@@ -157,7 +157,7 @@
             </plugin>
             <plugin name="TBBP">
               <description>
-                Piercings will fit the UNPB 2.5.2 TBBP body (requires a tbbp-compatible skeleton).
+                Piercings will fit the UNP HDT-PE-TBBP 5.01 body (requires a tbbp-compatible skeleton).
               </description>
               <image path="fomod\images\02_tbbp.png"/>
               <files>
