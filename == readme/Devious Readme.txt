@@ -1,4 +1,4 @@
-DEVIOUS DEVICES: ASSETS (v2.8.3)
+DEVIOUS DEVICES: ASSETS (v2.9.0)
 for TES V: Skyrim
 by Zadil
 
@@ -24,8 +24,8 @@ Alternatively the mod can be installed manually by copying the contents of the n
 
 -Requirements-
 
-CBBE v3.2.3 (Curvy) / UNPB 2.5.2 / UNP 1.2 (Skinny)
-The assets were created for the CBBE 3.2.3 (curvy) and UNPB 2.5.2 female body. A slightly tweaked version for the UNP 1.2 (skinny) body is also included.
+CBBE v3.2.3 (Curvy) / UNP v1.2 / UNP v1.2 (Skinny)
+The assets were created for the CBBE 3.2.3 (curvy) and UNP v1.2 female body. A slightly tweaked version for the UNP v1.2 (skinny) body is also included.
 Other body types and variations are not officially supported and may result in visual anomalies.
 
 SexLab Framework
@@ -85,6 +85,16 @@ for their time and efforts
 
 
 -Release History-
+
+2.9.0
+- Other: deprecated UNPB support in favour of UNP support
+- Tweak: reworked UNPB assets to fit the UNP body
+- Added: Restrictive items (corset, gloves, collar)
+- Added: Iron Yoke
+- Tweak: changed armbinder/yoke slot from 33/59 to 46
+- Tweak: changed vaginal plug slot from 54 to 57
+- Tweak: changed nipple piercing slot from 56 to 51
+- Tweak: changed vaginal piercing slot from 51 to 50
 
 2.8.3
 - Fixed: Belt Padded (Open) wold mesh path

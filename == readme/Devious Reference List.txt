@@ -2,7 +2,7 @@ ItemName [slot#]
 
 -----
 
-Armbinder [33, 59]
+Armbinder [46]
 
 Blindfold [55]
 
@@ -35,18 +35,24 @@ Gag (Simple) (Panel+) [44]
 
 Harness [45, 49]
 
-Nipple Piercings (Soulgem) [56]
+Nipple Piercings (Soulgem) [51]
 
 Plug (Anal) (Inflatable) [48]
 Plug (Anal) (Iron) [48]
 Plug (Anal) (Primitive) [48]
 Plug (Anal) (Soulgem) [48]
 
-Plug (Vaginal) (Inflatable) [54]
-Plug (Vaginal) (Iron) [54]
-Plug (Vaginal) (Primitive) [54]
-Plug (Vaginal) (Soulgem) [54]
+Plug (Vaginal) (Inflatable) [57]
+Plug (Vaginal) (Iron) [57]
+Plug (Vaginal) (Primitive) [57]
+Plug (Vaginal) (Soulgem) [57]
 
 Posture Collar (Leather) [45]
 
-Vaginal Piercing (Soulgem) [48]
+Vaginal Piercing (Soulgem) [50]
+
+Restrictive Corset [58]
+Restrictive Gloves [33]
+Restrictive Collar [45]
+
+Iron Yoke [46]
