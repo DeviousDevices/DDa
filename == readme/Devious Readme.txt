@@ -87,7 +87,7 @@ for their time and efforts
 -Release History-
 
 2.9.0
-- Other: deprecated UNPB support in favour of UNP support
+- Other: phased out UNPB support in favour of UNP support
 - Tweak: reworked UNPB assets to fit the UNP body
 - Added: Restrictive items (corset, gloves, collar)
 - Added: Iron Yoke
