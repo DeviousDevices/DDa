@@ -1,0 +1,105 @@
+<SliderSetInfo>
+    <SliderSet name="CBBE BODY HDT - piercingNSoul">
+        <SetFolder>CBBE BODY HDT - piercingNSoul</SetFolder>
+        <SourceFile>CBBE BODY HDT - piercingNSoul.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile>piercingNSoul</OutputFile>
+        <BaseShapeName target="piercingN_soul002_1">piercingN_soul002_1</BaseShapeName>
+        <BaseShapeName target="piercingN_soul002_2">piercingN_soul002_2</BaseShapeName>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <datafile name="piercingN_soul002_2Breasts" target="piercingN_soul002_2" local="true">piercingN_soul002_2Breasts.bsd</datafile>
+            <datafile name="piercingN_soul002_1Breasts" target="piercingN_soul002_1" local="true">piercingN_soul002_1Breasts.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <datafile name="piercingN_soul002_2BreastsSmall" target="piercingN_soul002_2" local="true">piercingN_soul002_2BreastsSmall.bsd</datafile>
+            <datafile name="piercingN_soul002_1BreastsSmall" target="piercingN_soul002_1" local="true">piercingN_soul002_1BreastsSmall.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2BreastsSH" target="piercingN_soul002_2" local="true">piercingN_soul002_2BreastsSH.bsd</datafile>
+            <datafile name="piercingN_soul002_1BreastsSH" target="piercingN_soul002_1" local="true">piercingN_soul002_1BreastsSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2BreastsSSH" target="piercingN_soul002_2" local="true">piercingN_soul002_2BreastsSSH.bsd</datafile>
+            <datafile name="piercingN_soul002_1BreastsSSH" target="piercingN_soul002_1" local="true">piercingN_soul002_1BreastsSSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2BreastsFantasy" target="piercingN_soul002_2" local="true">piercingN_soul002_2BreastsFantasy.bsd</datafile>
+            <datafile name="piercingN_soul002_1BreastsFantasy" target="piercingN_soul002_1" local="true">piercingN_soul002_1BreastsFantasy.bsd</datafile>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2DoubleMelon" target="piercingN_soul002_2" local="true">piercingN_soul002_2DoubleMelon.bsd</datafile>
+            <datafile name="piercingN_soul002_1DoubleMelon" target="piercingN_soul002_1" local="true">piercingN_soul002_1DoubleMelon.bsd</datafile>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2BreastCleavage" target="piercingN_soul002_2" local="true">piercingN_soul002_2BreastCleavage.bsd</datafile>
+            <datafile name="piercingN_soul002_1BreastCleavage" target="piercingN_soul002_1" local="true">piercingN_soul002_1BreastCleavage.bsd</datafile>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2BreastFlatness" target="piercingN_soul002_2" local="true">piercingN_soul002_2BreastFlatness.bsd</datafile>
+            <datafile name="piercingN_soul002_1BreastFlatness" target="piercingN_soul002_1" local="true">piercingN_soul002_1BreastFlatness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2BreastGravity" target="piercingN_soul002_2" local="true">piercingN_soul002_2BreastGravity.bsd</datafile>
+            <datafile name="piercingN_soul002_1BreastGravity" target="piercingN_soul002_1" local="true">piercingN_soul002_1BreastGravity.bsd</datafile>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2PushUp" target="piercingN_soul002_2" local="true">piercingN_soul002_2PushUp.bsd</datafile>
+            <datafile name="piercingN_soul002_1PushUp" target="piercingN_soul002_1" local="true">piercingN_soul002_1PushUp.bsd</datafile>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2BreastHeight" target="piercingN_soul002_2" local="true">piercingN_soul002_2BreastHeight.bsd</datafile>
+            <datafile name="piercingN_soul002_1BreastHeight" target="piercingN_soul002_1" local="true">piercingN_soul002_1BreastHeight.bsd</datafile>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2BreastPerkiness" target="piercingN_soul002_2" local="true">piercingN_soul002_2BreastPerkiness.bsd</datafile>
+            <datafile name="piercingN_soul002_1BreastPerkiness" target="piercingN_soul002_1" local="true">piercingN_soul002_1BreastPerkiness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2BreastWidth" target="piercingN_soul002_2" local="true">piercingN_soul002_2BreastWidth.bsd</datafile>
+            <datafile name="piercingN_soul002_1BreastWidth" target="piercingN_soul002_1" local="true">piercingN_soul002_1BreastWidth.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <datafile name="piercingN_soul002_2NippleDistance" target="piercingN_soul002_2" local="true">piercingN_soul002_2NippleDistance.bsd</datafile>
+            <datafile name="piercingN_soul002_1NippleDistance" target="piercingN_soul002_1" local="true">piercingN_soul002_1NippleDistance.bsd</datafile>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2NipplePerkiness" target="piercingN_soul002_2" local="true">piercingN_soul002_2NipplePerkiness.bsd</datafile>
+            <datafile name="piercingN_soul002_1NipplePerkiness" target="piercingN_soul002_1" local="true">piercingN_soul002_1NipplePerkiness.bsd</datafile>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2NippleLength" target="piercingN_soul002_2" local="true">piercingN_soul002_2NippleLength.bsd</datafile>
+            <datafile name="piercingN_soul002_1NippleLength" target="piercingN_soul002_1" local="true">piercingN_soul002_1NippleLength.bsd</datafile>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <datafile name="piercingN_soul002_2NippleSize" target="piercingN_soul002_2" local="true">piercingN_soul002_2NippleSize.bsd</datafile>
+            <datafile name="piercingN_soul002_1NippleSize" target="piercingN_soul002_1" local="true">piercingN_soul002_1NippleSize.bsd</datafile>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2NippleAreola" target="piercingN_soul002_2" local="true">piercingN_soul002_2NippleAreola.bsd</datafile>
+            <datafile name="piercingN_soul002_1NippleAreola" target="piercingN_soul002_1" local="true">piercingN_soul002_1NippleAreola.bsd</datafile>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2NippleUp" target="piercingN_soul002_2" local="true">piercingN_soul002_2NippleUp.bsd</datafile>
+            <datafile name="piercingN_soul002_1NippleUp" target="piercingN_soul002_1" local="true">piercingN_soul002_1NippleUp.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2NippleDown" target="piercingN_soul002_2" local="true">piercingN_soul002_2NippleDown.bsd</datafile>
+            <datafile name="piercingN_soul002_1NippleDown" target="piercingN_soul002_1" local="true">piercingN_soul002_1NippleDown.bsd</datafile>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2NippleTip" target="piercingN_soul002_2" local="true">piercingN_soul002_2NippleTip.bsd</datafile>
+            <datafile name="piercingN_soul002_1NippleTip" target="piercingN_soul002_1" local="true">piercingN_soul002_1NippleTip.bsd</datafile>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2BigTorso" target="piercingN_soul002_2" local="true">piercingN_soul002_2BigTorso.bsd</datafile>
+            <datafile name="piercingN_soul002_1BigTorso" target="piercingN_soul002_1" local="true">piercingN_soul002_1BigTorso.bsd</datafile>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2BigBelly" target="piercingN_soul002_2" local="true">piercingN_soul002_2BigBelly.bsd</datafile>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <datafile name="piercingN_soul002_2PregnancyBelly" target="piercingN_soul002_2" local="true">piercingN_soul002_2PregnancyBelly.bsd</datafile>
+            <datafile name="piercingN_soul002_1PregnancyBelly" target="piercingN_soul002_1" local="true">piercingN_soul002_1PregnancyBelly.bsd</datafile>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

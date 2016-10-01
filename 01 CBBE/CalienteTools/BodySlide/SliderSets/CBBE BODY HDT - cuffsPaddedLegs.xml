@@ -1,0 +1,51 @@
+<SliderSetInfo>
+    <SliderSet name="CBBE BODY HDT - cuffsPaddedLegs">
+        <SetFolder>CBBE BODY HDT - cuffsPaddedLegs</SetFolder>
+        <SourceFile>CBBE BODY HDT - cuffsPaddedLegs.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile>cuffsPaddedLegs</OutputFile>
+        <BaseShapeName target="cuffsPaddedLegs">cuffsPaddedLegs</BaseShapeName>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <datafile name="cuffsPaddedLegsPregnancyBelly" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsPregnancyBelly.bsd</datafile>
+        </Slider>
+        <Slider name="Butt" invert="true" small="0" big="100">
+            <datafile name="cuffsPaddedLegsButt" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsButt.bsd</datafile>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <datafile name="cuffsPaddedLegsButtSmall" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsButtSmall.bsd</datafile>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <datafile name="cuffsPaddedLegsBigButt" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsBigButt.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <datafile name="cuffsPaddedLegsChubbyButt" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsChubbyButt.bsd</datafile>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <datafile name="cuffsPaddedLegsSlimThighs" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsSlimThighs.bsd</datafile>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <datafile name="cuffsPaddedLegsThighs" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsThighs.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <datafile name="cuffsPaddedLegsChubbyLegs" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsChubbyLegs.bsd</datafile>
+        </Slider>
+        <Slider name="Legs" invert="true" small="0" big="100">
+            <datafile name="cuffsPaddedLegsLegs" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsLegs.bsd</datafile>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <datafile name="cuffsPaddedLegsKneeHeight" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsKneeHeight.bsd</datafile>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <datafile name="cuffsPaddedLegsCalfSize" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsCalfSize.bsd</datafile>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <datafile name="cuffsPaddedLegsCalfSmooth" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsCalfSmooth.bsd</datafile>
+        </Slider>
+        <Slider name="Ankles" invert="true" small="100" big="100">
+            <datafile name="cuffsPaddedLegsAnkles" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsAnkles.bsd</datafile>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <datafile name="cuffsPaddedLegsSmallSeam" target="cuffsPaddedLegs" local="true">cuffsPaddedLegsSmallSeam.bsd</datafile>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

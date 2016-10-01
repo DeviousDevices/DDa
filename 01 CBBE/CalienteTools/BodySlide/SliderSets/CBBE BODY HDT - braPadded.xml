@@ -1,0 +1,126 @@
+<SliderSetInfo>
+    <SliderSet name="CBBE BODY HDT - braPadded">
+        <SetFolder>CBBE BODY HDT - braPadded</SetFolder>
+        <SourceFile>CBBE BODY HDT - braPadded.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile>braPadded</OutputFile>
+        <BaseShapeName target="braPadded">braPadded</BaseShapeName>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <datafile name="braPaddedBreasts" target="braPadded" local="true">braPaddedBreasts.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <datafile name="braPaddedBreastsSmall" target="braPadded" local="true">braPaddedBreastsSmall.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <datafile name="braPaddedBreastsSH" target="braPadded" local="true">braPaddedBreastsSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <datafile name="braPaddedBreastsSSH" target="braPadded" local="true">braPaddedBreastsSSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <datafile name="braPaddedBreastsFantasy" target="braPadded" local="true">braPaddedBreastsFantasy.bsd</datafile>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <datafile name="braPaddedDoubleMelon" target="braPadded" local="true">braPaddedDoubleMelon.bsd</datafile>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <datafile name="braPaddedBreastCleavage" target="braPadded" local="true">braPaddedBreastCleavage.bsd</datafile>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <datafile name="braPaddedBreastFlatness" target="braPadded" local="true">braPaddedBreastFlatness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <datafile name="braPaddedBreastGravity" target="braPadded" local="true">braPaddedBreastGravity.bsd</datafile>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <datafile name="braPaddedPushUp" target="braPadded" local="true">braPaddedPushUp.bsd</datafile>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <datafile name="braPaddedBreastHeight" target="braPadded" local="true">braPaddedBreastHeight.bsd</datafile>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <datafile name="braPaddedBreastPerkiness" target="braPadded" local="true">braPaddedBreastPerkiness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <datafile name="braPaddedBreastWidth" target="braPadded" local="true">braPaddedBreastWidth.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <datafile name="braPaddedNippleDistance" target="braPadded" local="true">braPaddedNippleDistance.bsd</datafile>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <datafile name="braPaddedNipplePerkiness" target="braPadded" local="true">braPaddedNipplePerkiness.bsd</datafile>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <datafile name="braPaddedNippleLength" target="braPadded" local="true">braPaddedNippleLength.bsd</datafile>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <datafile name="braPaddedNippleSize" target="braPadded" local="true">braPaddedNippleSize.bsd</datafile>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <datafile name="braPaddedNippleAreola" target="braPadded" local="true">braPaddedNippleAreola.bsd</datafile>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <datafile name="braPaddedNippleUp" target="braPadded" local="true">braPaddedNippleUp.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <datafile name="braPaddedNippleDown" target="braPadded" local="true">braPaddedNippleDown.bsd</datafile>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <datafile name="braPaddedNippleTip" target="braPadded" local="true">braPaddedNippleTip.bsd</datafile>
+        </Slider>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <datafile name="braPaddedArms" target="braPadded" local="true">braPaddedArms.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <datafile name="braPaddedChubbyArms" target="braPadded" local="true">braPaddedChubbyArms.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <datafile name="braPaddedShoulderSmooth" target="braPadded" local="true">braPaddedShoulderSmooth.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <datafile name="braPaddedShoulderWidth" target="braPadded" local="true">braPaddedShoulderWidth.bsd</datafile>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <datafile name="braPaddedBigTorso" target="braPadded" local="true">braPaddedBigTorso.bsd</datafile>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="100">
+            <datafile name="braPaddedWaist" target="braPadded" local="true">braPaddedWaist.bsd</datafile>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <datafile name="braPaddedWideWaistLine" target="braPadded" local="true">braPaddedWideWaistLine.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <datafile name="braPaddedChubbyWaist" target="braPadded" local="true">braPaddedChubbyWaist.bsd</datafile>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <datafile name="braPaddedBelly" target="braPadded" local="true">braPaddedBelly.bsd</datafile>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <datafile name="braPaddedBigBelly" target="braPadded" local="true">braPaddedBigBelly.bsd</datafile>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <datafile name="braPaddedPregnancyBelly" target="braPadded" local="true">braPaddedPregnancyBelly.bsd</datafile>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <datafile name="braPaddedTummyTuck" target="braPadded" local="true">braPaddedTummyTuck.bsd</datafile>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <datafile name="braPaddedBack" target="braPadded" local="true">braPaddedBack.bsd</datafile>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <datafile name="braPaddedHips" target="braPadded" local="true">braPaddedHips.bsd</datafile>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <datafile name="braPaddedButtShape2" target="braPadded" local="true">braPaddedButtShape2.bsd</datafile>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <datafile name="braPaddedBigButt" target="braPadded" local="true">braPaddedBigButt.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <datafile name="braPaddedChubbyButt" target="braPadded" local="true">braPaddedChubbyButt.bsd</datafile>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <datafile name="braPaddedAppleCheeks" target="braPadded" local="true">braPaddedAppleCheeks.bsd</datafile>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

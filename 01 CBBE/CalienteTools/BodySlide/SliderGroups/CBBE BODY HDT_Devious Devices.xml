@@ -1,0 +1,50 @@
+<SliderGroups>
+
+	<Group name="HDT_Devious Devices">
+		<Member name="CBBE BODY HDT - armbinder01" />
+  		<Member name="CBBE BODY HDT - beltIron" />
+		<Member name="CBBE BODY HDT - beltPadded" />
+		<Member name="CBBE BODY HDT - beltPaddedOpen" />
+		<Member name="CBBE BODY HDT - braPadded" />
+		<Member name="CBBE BODY HDT - cuffsLeatherArms" />
+		<Member name="CBBE BODY HDT - cuffsLeatherLegs" />
+		<Member name="CBBE BODY HDT - cuffsPaddedArms" />
+		<Member name="CBBE BODY HDT - cuffsPaddedLegs" />
+		<Member name="CBBE BODY HDT - harnessBody" />
+		<Member name="CBBE BODY HDT - piercingNSoul - Bigger version" />
+		<Member name="CBBE BODY HDT - piercingNSoul" />
+		<Member name="CBBE BODY HDT - piercingVSoul" />
+		<Member name="CBBE BODY HDT - restrictiveBoots" />
+		<Member name="CBBE BODY HDT - restrictiveCollar" />
+		<Member name="CBBE BODY HDT - restrictiveCorset" />
+		<Member name="CBBE BODY HDT - restrictiveCorsetBelt" />
+		<Member name="CBBE BODY HDT - restrictiveCorsetBeltOpen" />
+		<Member name="CBBE BODY HDT - restrictiveGloves" />		
+		
+	</Group>
+		<!-- Supergroup (for Presets) -->
+	<Group name="CBAdvanced">	
+		<Member name="CBBE BODY HDT - armbinder01" />
+  		<Member name="CBBE BODY HDT - beltIron" />
+		<Member name="CBBE BODY HDT - beltPadded" />
+		<Member name="CBBE BODY HDT - beltPaddedOpen" />
+		<Member name="CBBE BODY HDT - braPadded" />		
+		<Member name="CBBE BODY HDT - cuffsLeatherArms" />
+		<Member name="CBBE BODY HDT - cuffsLeatherLegs" />
+		<Member name="CBBE BODY HDT - cuffsPaddedArms" />
+		<Member name="CBBE BODY HDT - cuffsPaddedLegs" />		
+		<Member name="CBBE BODY HDT - harnessBody" />
+		<Member name="CBBE BODY HDT - piercingNSoul - Bigger version" />
+		<Member name="CBBE BODY HDT - piercingNSoul" />
+		<Member name="CBBE BODY HDT - piercingVSoul" />
+		<Member name="CBBE BODY HDT - restrictiveBoots" />
+		<Member name="CBBE BODY HDT - restrictiveCollar" />
+		<Member name="CBBE BODY HDT - restrictiveCorset" />
+		<Member name="CBBE BODY HDT - restrictiveCorsetBelt" />
+		<Member name="CBBE BODY HDT - restrictiveCorsetBeltOpen" />
+		<Member name="CBBE BODY HDT - restrictiveGloves" />		
+	</Group>
+</SliderGroups>
+
+
+	

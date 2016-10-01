@@ -1,4 +1,4 @@
-; -----Devious Devices: Assets by Zadil (v2.8.3)-----
+; -----Devious Devices: Assets by Zadil (v3.0)-----
 ; http://www.loverslab.com/files/file/269-devious-devices-assets/
 
 RequireVersions "", "", "", "303"
@@ -10,60 +10,16 @@ ddCBBE = False
 ddUNP_S = False
 ddUNP = False
 
-SelectOne "Step 1/2: Which body do you use?", \
-	"CBBE (Curvy)", "Install CBBE version (based on CBBE 3.2.3 Curvy)", "fomod/images/01_cbbe.png", \
-	"UNP (Skinny)", "Install UNPB version tweaked for UNP Skinny (based on UNP 1.2 Skinny)", "fomod/images/01_unp_s.png", \
-	"|UNP", "Install UNP version (based on UNP 1.2)", "fomod/images/01_unp.png"
-
-	Case "CBBE (Curvy)"
+SelectOne "Which body do you use?", \
+	"CBBE", "Install CBBE Bodyslide version)", "fomod/images/01_cbbe.png", \
+	"UUNP", "Install UUNP version", "fomod/images/01_unp_s.png" 	
+	Case "CBBE"
 		ddCBBE = True
 		Break
-	Case "UNP (Skinny)"
-		ddUNP_S = True
-		Break
-	Case "UNP"
-		ddUNP = True
+	Case "UUNP"
+		ddUUNP = True
 		Break
 EndSelect
-
-
-; -----HDT-----
-
-ddTBBP = False
-
-If ddCBBE
-	SelectOne "Select nipple piercing placement", \
-		"|Default", "Piercings will fit the default CBBE 3.2.3 (Curvy) body", "fomod/images/02_default.png", \
-		"BBP", "Piercings will fit the CBBE bodyslide2 BBP body (requires a bbp-compatible skeleton)", "fomod/images/02_bbp.png", \
-		"TBBP", "Piercings will fit the CBBE bodyslide2 TBBP body (requires a tbbp-compatible skeleton)", "fomod/images/02_tbbp.png"
-
-		Case "BBP"
-			ddBBP = True
-			Break
-		Case "TBBP"
-			ddTBBP = True
-			Break
-	EndSelect
-Elif ddUNP_S
-	SelectOne "Select nipple piercing placement", \
-		"|Default", "Piercings will fit the default UNP 1.2 Skinny body", "fomod/images/02_default.png", \
-		"TBBP", "Piercings will fit the UNP 1.2 Skinny TBBP body (requires a tbbp-compatible skeleton)", "fomod/images/02_tbbp.png"
-	
-		Case "TBBP"
-			ddTBBP = True
-			Break
-	EndSelect
-Elif ddUNP
-	SelectOne "Select nipple piercing placement", \
-		"|Default", "Piercings will fit the default UNP 1.2 body", "fomod/images/02_default.png", \
-		"TBBP", "Piercings will fit the UNP HDT-PE BBP TBBP body (requires a tbbp-compatible skeleton)", "fomod/images/02_tbbp.png"
-
-		Case "TBBP"
-			ddTBBP = True
-			Break
-	EndSelect
-EndIf
-
 
 ; -----INSTALL-----
 
@@ -71,20 +27,6 @@ DeSelectAll
 SelectSubPackage "00 Core"
 If ddCBBE
 	SelectSubPackage "01 CBBE"
-	If ddBBP
-		SelectSubPackage "02 BBP (CBBE)"
-	Elif ddTBBP
-		SelectSubPackage "02 TBBP (CBBE)"
-	EndIf
-Elif ddUNP_S
-	SelectSubPackage "01 UNP"
-	SelectSubPackage "01_UNP Skinny"
-	If ddTBBP
-		SelectSubPackage "02 TBBP (UNP Skinny)"
-	EndIf
-Elif ddUNP
-	SelectSubPackage "01 UNP"
-	If ddTBBP
-		SelectSubPackage "02 TBBP (UNP)"
-	EndIf
+Elif ddUUNP
+	SelectSubPackage "01 UUNP"		
 EndIf
