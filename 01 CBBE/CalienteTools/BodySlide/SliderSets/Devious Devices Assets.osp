@@ -1,5 +1,5 @@
 <SliderSetInfo version="1">
-    <SliderSet name="Devious Devices Assets - Armbinder">
+    <SliderSet name="DDA - CBBE - Armbinder">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>armbinder01.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -93,7 +93,7 @@
             <Data name="Armbinder:4ShoulderTweak" target="Armbinder:4" local="true">armbinder01.osd\Armbinder:4ShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Iron Belt">
+    <SliderSet name="DDA - CBBE - IronBelt">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>beltIron.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -169,7 +169,7 @@
             <Data name="beltIronChubbyLegs" target="beltIron" local="true">beltIron.osd\beltIronChubbyLegs</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Padded Belt">
+    <SliderSet name="DDA - CBBE - PaddedBelt">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>beltPadded.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -260,7 +260,7 @@
             <Data name="beltPadded:1ChubbyLegs" target="beltPadded:1" local="true">beltPadded.osd\beltPadded:1ChubbyLegs</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Padded Belt Open">
+    <SliderSet name="DDA - CBBE - PaddedBeltOpen">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>beltPaddedOpen.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -336,7 +336,7 @@
             <Data name="beltPadded:1ChubbyLegs" target="beltPadded:1" local="true">beltPaddedOpen.osd\beltPadded:1ChubbyLegs</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Padded Bra (Rigid Bounce)">
+    <SliderSet name="DDA - CBBE - PaddedBra(HDT)">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>braPadded.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -430,7 +430,7 @@
             <Data name="braPaddedBack" target="braPadded" local="true">braPadded.osd\braPaddedBack</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Padded Bra (No Bounce - Need DDI breast node management)">
+    <SliderSet name="DDA - CBBE - PaddedBra">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>braPaddedNoBounce.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -524,7 +524,7 @@
             <Data name="braPaddedBack" target="braPadded" local="true">braPadded.osd\braPaddedBack</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Leather Arm Cuffs">
+    <SliderSet name="DDA - CBBE - LeatherArmCuffs">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>cuffsLeatherArms.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -548,7 +548,7 @@
             <Data name="cuffsLeatherArms001:1BigTorso" target="cuffsLeatherArms001:1" local="true">cuffsLeatherArms.osd\cuffsLeatherArms001:1BigTorso</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Leather Leg Cuffs">
+    <SliderSet name="DDA - CBBE - LeatherLegCuffs">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>cuffsLeatherLegs.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -596,7 +596,7 @@
             <Data name="cuffsLeatherLegs:1Ankles" target="cuffsLeatherLegs:1" local="true">cuffsLeatherLegs.osd\cuffsLeatherLegs:1Ankles</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Padded Arm Cuffs">
+    <SliderSet name="DDA - CBBE - PaddedArmCuffs">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>cuffsPaddedArms.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -615,7 +615,7 @@
             <Data name="cuffsPaddedArmsBigTorso" target="cuffsPaddedArms" local="true">cuffsPaddedArms.osd\cuffsPaddedArmsBigTorso</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Padded Leg Cuffs">
+    <SliderSet name="DDA - CBBE - PaddedLegCuffs">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>cuffsPaddedLegs.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -652,7 +652,7 @@
             <Data name="cuffsPaddedLegsAnkles" target="cuffsPaddedLegs" local="true">cuffsPaddedLegs.osd\cuffsPaddedLegsAnkles</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Body Harness">
+    <SliderSet name="DDA - CBBE - BodyHarness">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>harnessBody.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -816,7 +816,7 @@
             <Data name="HarnessBody:1Legs" target="HarnessBody:1" local="true">harnessBody.osd\HarnessBody:1Legs</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Piercing">
+    <SliderSet name="DDA - CBBE - PiercingsN">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>piercingNSoul.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -908,7 +908,7 @@
             <Data name="RingN_soul001:1PregnancyBelly" target="RingN_soul001:1" local="true">piercingNSoul.osd\RingN_soul001:1PregnancyBelly</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Restrictive Collar (Bounce)">
+    <SliderSet name="DDA - CBBE - RestrictiveCollar(HDT)">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>restrictiveCollar.nif</SourceFile>
         <OutputPath>meshes\devious\devices\koffii</OutputPath>
@@ -984,7 +984,7 @@
             <Data name="collarShoulderTweak" target="collar" local="true">restrictiveCollar.osd\collarShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Restrictive Collar (No Bounce)">
+    <SliderSet name="DDA - CBBE - RestrictiveCollar">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>restrictiveCollarNoBounce.nif</SourceFile>
         <OutputPath>meshes\devious\devices\koffii</OutputPath>
@@ -1060,7 +1060,7 @@
             <Data name="collarShoulderTweak" target="collar" local="true">restrictiveCollar.osd\collarShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Restrictive Corset">
+    <SliderSet name="DDA - CBBE - RestrictiveCorset">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>restrictiveCorset.nif</SourceFile>
         <OutputPath>meshes\devious\devices\koffii</OutputPath>
@@ -1163,7 +1163,7 @@
             <Data name="corsetRoundAss" target="corset" local="true">restrictiveCorset.osd\corsetRoundAss</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Restrictive Corset with Belt">
+    <SliderSet name="DDA - CBBE - RestrictiveCorsetBelt">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>restrictiveCorsetBelt.nif</SourceFile>
         <OutputPath>meshes\devious\devices\koffii</OutputPath>
@@ -1306,7 +1306,7 @@
             <Data name="beltChubbyLegs" target="belt" local="true">restrictiveCorsetBelt.osd\beltChubbyLegs</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Restrictive Corset with Open Belt">
+    <SliderSet name="DDA - CBBE - RestrictiveCorsetBeltOpen">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>restrictiveCorsetBeltOpen.nif</SourceFile>
         <OutputPath>meshes\devious\devices\koffii</OutputPath>
@@ -1449,7 +1449,7 @@
             <Data name="belt_openChubbyLegs" target="belt_open" local="true">restrictiveCorsetBeltOpen.osd\belt_openChubbyLegs</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Assets - Restrictive Gloves">
+    <SliderSet name="DDA - CBBE - RestrictiveGloves">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>restrictiveGloves.nif</SourceFile>
         <OutputPath>meshes\devious\devices\koffii</OutputPath>
