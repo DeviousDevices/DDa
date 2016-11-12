@@ -25,7 +25,7 @@
               <description>
                 Install UUNP version.
               </description>
-              <image path="fomod\images\01_unp_s.png"/>
+              <image path="fomod\images\01_unp.png"/>
               <files>
                 <folder source="00 Core" destination="" priority="1"/>
                 <folder source="01 UUNP" destination="" priority="2"/>                
