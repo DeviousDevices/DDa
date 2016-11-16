@@ -1,10 +1,10 @@
 DEVIOUS DEVICES: ASSETS Version 3.0
 for TES V: Skyrim
-Meshes by Zadil and Koffii. Slider sets by Gameplayer (UUNP) and toptoper (CBBE)
+Meshes by Zadil and Koffii. Slider sets by Gameplayer (UUNP) and Pincopallino (CBBE)
 
 DESCRIPTION
 
-This is a collection of BDSM-themed gear and devices for CBBE Bodyslide and UUNP female bodies.
+This is a collection of BDSM-themed gear and devices for CBBE-HDT (Bodyslide) and UUNP female bodies.
 
 A comprehensive list of mods that use these devices can be found here:
 http://www.loverslab.com/topic/30855-devious-skyrim/#entry770752
@@ -38,13 +38,13 @@ Q: Will there ever be support for males/beast races?
 A: No.
 
 Q: Will there ever be support for additional bodies?
-A: CBBE Bodyslide and UUNP are the most widely used and the most versatile body mods available for Skyrim. There is hardly any good reason to use another body. Given the stage in Skyrim's lifescycle, it is very unlikely to see a new body mod getting released with the potential to surpass either CBBE's or UUNP's popularity. We also do no want to continue support for older fixed-shape body mods, as this would increase our modellers' workload for little gain. You can use Bodyslide to generate any body shape you wish, so there is no point in supporting a fixed-shape body. The last version of DDA supporting CBBE Curvy and UNP will remain available as an unsupported legacy download for those still using these bodies.
+A: CBBE-HDT and UUNP are the most widely used and the most versatile body mods available for Skyrim. There is hardly any good reason to use another body. Given the stage in Skyrim's lifescycle, it is very unlikely to see a new body mod getting released with the potential to surpass either CBBE's or UUNP's popularity. We also do no want to continue support for older fixed-shape body mods, as this would dramatically increase our modellers' workload for very little gain. You can use Bodyslide to generate any body shape you wish, so there is no point in supporting a fixed-shape body. 
 
 Q: Can I use these items in my own mod?
 A: Yes, but please do not merge/repack/redistribute or use its contents for other purposes without expressed permission.
 
 Q: Can I make suggestions regarding future content?
-A: This mod is considered final. New assets will be added to Devious Devices Expansion only.
+A: This mod is considered final. No new content will be added to it. New assets will be added to Devious Devices Expansion only.
 
 CREDITS
 
@@ -63,7 +63,7 @@ for his assistance regarding nif shader parameters & mod maintenance
 Gameplayer
 for the UUNP Slidersets
 
-Toptoper
+Pincopallino
 for the CBBE Slidersets
 
 All DD modders and beta testers
@@ -73,7 +73,7 @@ CHANGELOG
 
 3.0 
 - Removed: UNP and CBBE Curvy body support.
-- Added: UUNP and CBBE Bodyslide slider sets. Bodyslide is now a requirement for this mod.
+- Added: UUNP and CBBE-HDT Bodyslide slider sets. Bodyslide is now a requirement for this mod.
 
 2.9.0
 - Other: phased out UNPB support in favour of UNP support
