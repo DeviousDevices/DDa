@@ -33,7 +33,7 @@ Gag (Simple) (Ring) [44]
 Gag (Simple) (Panel) [44]
 Gag (Simple) (Panel+) [44]
 
-Harness [45, 49]
+Harness [45, 58]
 
 Nipple Piercings (Soulgem) [51]
 

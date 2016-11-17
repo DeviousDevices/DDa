@@ -1,71 +1,52 @@
-DEVIOUS DEVICES: ASSETS (v2.9.0)
+DEVIOUS DEVICES: ASSETS Version 3.0
 for TES V: Skyrim
-by Zadil
+Meshes by Zadil and Koffii. Slider sets by Gameplayer (UUNP) and Pincopallino (CBBE)
 
+DESCRIPTION
 
-
--Description-
-
-This is a collection of BDSM-themed gear and devices for the CBBE 3.2.3 (Curvy) & UNPB 2.5.2 female body, with additional tweaks for the UNP 1.2 (Skinny) body included.
+This is a collection of BDSM-themed gear and devices for CBBE-HDT (Bodyslide) and UUNP female bodies.
 
 A comprehensive list of mods that use these devices can be found here:
 http://www.loverslab.com/topic/30855-devious-skyrim/#entry770752
 
-It is recommended to use DD:Assets with other DD mods like DD:Integration that make the content available ingame.
+INSTALLATION
 
+Install with mod manager of your choice.
 
+REQUIREMENTS
 
--Usage-
+Bodyslide and Outfit Studio: http://www.nexusmods.com/skyrim/mods/49015/?
+SexLab: http://www.loverslab.com/files/file/150-skyrim-sexlab-sex-animation-framework-v159c-updated-oct-3rd/
 
-This mod is BAIN/FOMOD enabled, as such it is strongly recommended to install it using the install manager of your choice (MO/NMM/Wrye) and follow the onscreen instruction.
-Alternatively the mod can be installed manually by copying the contents of the numbered folders into the Skyrim/Data directory. However make sure to -only- include the most applicable folder for each number, if any.
-
-
-
--Requirements-
-
-CBBE v3.2.3 (Curvy) / UNP v1.2 / UNP v1.2 (Skinny)
-The assets were created for the CBBE 3.2.3 (curvy) and UNP v1.2 female body. A slightly tweaked version for the UNP v1.2 (skinny) body is also included.
-Other body types and variations are not officially supported and may result in visual anomalies.
-
-SexLab Framework
-Some items in this package have SexLab keywords attached to them to ensure compatibility with other adult mods.
-
-
-
--Known Issues-
+KNOWN ISSUES
 
 Headgear (gags, blingfold,...) may not always fit perfectly depending on the character's race and facial features.
 Minor clipping and/or deformation issues may occur when the character assumes extreme poses or performs certain movements.
 
-
-
 -Frequently Asked Questions-
 
-[#1 - How do I access or use these devices?]
-Devious Devices: Assets is a modder's resource and doesn't place the items ingame nor assign them or provide support for custom ingame behaviour - these aspects are handled and maintained by seperate 'Devious Devices' mods. Any issues with such should thus be referred to the respective mod author.
+Q: How do I access or use these devices?
+A: Devious Devices: Assets is a modder's resource and doesn't place the items ingame nor assign them or provide support for custom ingame behaviour. The resources are meant to be used by the Devious Devices Integration framework and content mods making use of the framework. Any issues with such should thus be referred to the respective mod author.
 
-[#2 - Why is a certain device not working properly?]
-See question #1.
+Q: Why is a certain device not working properly?
+A: See question #1.
 
-[#3 - Why do some devices not fit my player character?]
-These assets were made for a specific set of bodies (see 'Requirements'). Other body types are not supported and may cause visual anomalies.
+Q: Why do some devices not fit my player character?
+You probably forgot to use Bodyslide to build the items. That or you are not using one of the supported body mods. Other body types are not supported and may/will cause visual anomalies.
 
-[#4 - Will there ever be support for males/beast races/additional bodies?]
-Unlikely due to lack of public and personal interest.
+Q: Will there ever be support for males/beast races?
+A: No.
 
-[#5 - Can I use these items in my own mod?]
-Yes, but please do not merge/repack/redistribute or use its contents for other purposes without expressed permission.
+Q: Will there ever be support for additional bodies?
+A: CBBE-HDT and UUNP are the most widely used and the most versatile body mods available for Skyrim. There is hardly any good reason to use another body. Given the stage in Skyrim's lifescycle, it is very unlikely to see a new body mod getting released with the potential to surpass either CBBE's or UUNP's popularity. We also do no want to continue support for older fixed-shape body mods, as this would dramatically increase our modellers' workload for very little gain. You can use Bodyslide to generate any body shape you wish, so there is no point in supporting a fixed-shape body. 
 
-[#6 - Can I make suggestions regarding future content?]
-Ideas about additional devices can be shared in the Devious Devices: Assets support thread. Keep in mind that devices requiring custom animations are unlikely to be realized.
+Q: Can I use these items in my own mod?
+A: Yes, but please do not merge/repack/redistribute or use its contents for other purposes without expressed permission.
 
-[#7 - When will the next version of this mod be released and what will be included?]
-No idea
+Q: Can I make suggestions regarding future content?
+A: This mod is considered final. No new content will be added to it. New assets will be added to Devious Devices Expansion only.
 
-
-
--Credits-
+CREDITS
 
 Min
 for his outstanding and ongoing work on the Integration mod
@@ -79,12 +60,20 @@ for providing complementary animations to some devices
 Coopervane
 for his assistance regarding nif shader parameters & mod maintenance
 
+Gameplayer
+for the UUNP Slidersets
+
+Pincopallino
+for the CBBE Slidersets
+
 All DD modders and beta testers
 for their time and efforts
 
+CHANGELOG
 
-
--Release History-
+3.0 
+- Removed: UNP and CBBE Curvy body support.
+- Added: UUNP and CBBE-HDT Bodyslide slider sets. Bodyslide is now a requirement for this mod.
 
 2.9.0
 - Other: phased out UNPB support in favour of UNP support
