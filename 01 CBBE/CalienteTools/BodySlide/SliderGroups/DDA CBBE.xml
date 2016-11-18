@@ -1,0 +1,42 @@
+<SliderGroups>
+    <Group name="DDa">
+        <Member name="DDA - CBBE - Armbinder"/>
+        <Member name="DDA - CBBE - BodyHarness"/>
+        <Member name="DDA - CBBE - IronBelt"/>
+        <Member name="DDA - CBBE - LeatherArmCuffs"/>
+        <Member name="DDA - CBBE - LeatherLegCuffs"/>
+        <Member name="DDA - CBBE - PaddedArmCuffs"/>
+        <Member name="DDA - CBBE - PaddedBelt"/>
+        <Member name="DDA - CBBE - PaddedBeltOpen"/>
+        <Member name="DDA - CBBE - PaddedBra"/>
+        <Member name="DDA - CBBE - PaddedBra(HDT)"/>
+        <Member name="DDA - CBBE - PaddedLegCuffs"/>
+        <Member name="DDA - CBBE - PiercingsN"/>
+        <Member name="DDA - CBBE - RestrictiveCollar"/>
+        <Member name="DDA - CBBE - RestrictiveCollar(HDT)"/>
+        <Member name="DDA - CBBE - RestrictiveCorset"/>
+        <Member name="DDA - CBBE - RestrictiveCorsetBelt"/>
+        <Member name="DDA - CBBE - RestrictiveCorsetBeltOpen"/>
+        <Member name="DDA - CBBE - RestrictiveGloves"/>
+    </Group>
+	<Group name="CBAdvanced">
+        <Member name="DDA - CBBE - Armbinder"/>
+        <Member name="DDA - CBBE - BodyHarness"/>
+        <Member name="DDA - CBBE - IronBelt"/>
+        <Member name="DDA - CBBE - LeatherArmCuffs"/>
+        <Member name="DDA - CBBE - LeatherLegCuffs"/>
+        <Member name="DDA - CBBE - PaddedArmCuffs"/>
+        <Member name="DDA - CBBE - PaddedBelt"/>
+        <Member name="DDA - CBBE - PaddedBeltOpen"/>
+        <Member name="DDA - CBBE - PaddedBra"/>
+        <Member name="DDA - CBBE - PaddedBra(HDT)"/>
+        <Member name="DDA - CBBE - PaddedLegCuffs"/>
+        <Member name="DDA - CBBE - PiercingsN"/>
+        <Member name="DDA - CBBE - RestrictiveCollar"/>
+        <Member name="DDA - CBBE - RestrictiveCollar(HDT)"/>
+        <Member name="DDA - CBBE - RestrictiveCorset"/>
+        <Member name="DDA - CBBE - RestrictiveCorsetBelt"/>
+        <Member name="DDA - CBBE - RestrictiveCorsetBeltOpen"/>
+        <Member name="DDA - CBBE - RestrictiveGloves"/>
+    </Group>
+</SliderGroups>
