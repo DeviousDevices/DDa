@@ -19,7 +19,27 @@
         <Member name="DDA - UUNP - RestrictiveCorsetBeltOpen"/>
         <Member name="DDA - UUNP - RestrictiveGloves"/>
     </Group>
-	<Group name="CBAdvanced">
+	<Group name="Unified UNP">
+        <Member name="DDA - UUNP - Armbinder"/>
+        <Member name="DDA - UUNP - BodyHarness"/>
+        <Member name="DDA - UUNP - IronBelt"/>
+        <Member name="DDA - UUNP - LeatherArmCuffs"/>
+        <Member name="DDA - UUNP - LeatherLegCuffs"/>
+        <Member name="DDA - UUNP - PaddedArmCuffs"/>
+        <Member name="DDA - UUNP - PaddedBelt"/>
+        <Member name="DDA - UUNP - PaddedBeltOpen"/>
+        <Member name="DDA - UUNP - PaddedBra"/>
+        <Member name="DDA - UUNP - PaddedBra(HDT)"/>
+        <Member name="DDA - UUNP - PaddedLegCuffs"/>
+        <Member name="DDA - UUNP - PiercingsN"/>
+        <Member name="DDA - UUNP - RestrictiveCollar"/>
+        <Member name="DDA - UUNP - RestrictiveCollar(HDT)"/>
+        <Member name="DDA - UUNP - RestrictiveCorset"/>
+        <Member name="DDA - UUNP - RestrictiveCorsetBelt"/>
+        <Member name="DDA - UUNP - RestrictiveCorsetBeltOpen"/>
+        <Member name="DDA - UUNP - RestrictiveGloves"/>
+    </Group>
+	<Group name="Unified UNP HDT">
         <Member name="DDA - UUNP - Armbinder"/>
         <Member name="DDA - UUNP - BodyHarness"/>
         <Member name="DDA - UUNP - IronBelt"/>
